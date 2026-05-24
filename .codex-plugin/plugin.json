@@ -1,0 +1,22 @@
+{
+  "name": "paper-introduction-analyzer",
+  "version": "0.1.0",
+  "description": "Analyze English paper Introductions with detailed structure, gap, tense, and writing-pattern guidance.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Paper Introduction Analyzer",
+    "shortDescription": "精读英文论文 Introduction 的结构、Gap、时态和句型。",
+    "longDescription": "A Chinese-language academic writing assistant for close reading English paper Introductions. It breaks down paragraph-level structure, research significance, research content, gaps, tense use, functional sentence patterns, logical transitions, and transferable writing strategies.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": ["Analyze", "Write"],
+    "defaultPrompt": [
+      "分析这篇英文论文 Introduction 的写作结构。",
+      "帮我拆解 Introduction 的 gap 和功能句型。",
+      "精读这段引言并给出写作借鉴。"
+    ]
+  }
+}
